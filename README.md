@@ -6,6 +6,16 @@
 - 노민지: Data Exploration
 - 김민서: Data Exploration / Data Preprocessing / Data Analysis and Modeling / Model Evaluation / PPT preparation / Github READ writing and organizaiton / Final report preparation
 
+## Code
+[Student Data Analysis Project](datascienc.ipynb)
+
+## Installation
+Install the required packages using `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Comprehensive Report
 ### Key Findings Summary
 This Project integrates and processess three independent datasets to analyze the multi-faceted correlations between student's sleep patterns, productivity, and stress levels, building a preprocessing, model train, predict and evaluate pipeline from end to end. There are 893 lines of Python code implement the pipeline lifecycle from data preprocessing to model evaluation, leveraging 15 regression models and 20 classifiers for multivariate analysis. Notably, the feature engineering stage combines over 30 scikit-learn components to imporve data quality.

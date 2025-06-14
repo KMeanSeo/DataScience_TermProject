@@ -1,7 +1,7 @@
 # Data Science Term Project (Student Data Analysis Project: Sleep Patterns and Productivity)
 
 ## Team Roles
-- 신채운: Preporcessing / Presentation
+- 신채운: Preporcessing / Presentation / Final report preparation
 - 서지호: Evalutation
 - 노민지: Data Exploration
 - 김민서: Data Exploration / Data Preprocessing / Data Analysis and Modeling / Model Evaluation / PPT preparation / Github READ writing and organizaiton / Final report preparation

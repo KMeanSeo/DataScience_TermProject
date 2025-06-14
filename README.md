@@ -4,7 +4,7 @@
 - 신채운: Preporcessing / Presentation / Final report preparation
 - 서지호: Evalutation
 - 노민지: Data Exploration
-- 김민서: Data Exploration / Data Preprocessing / Data Analysis and Modeling / Model Evaluation / PPT preparation / Github READ writing and organizaiton / Final report preparation
+- 김민서: Data Exploration / Data Preprocessing / Data Analysis and Modeling / Model Evaluation / PPT preparation / Github README writing and organizaiton / Final report preparation
 
 ## Code
 [Student Data Analysis Project](datascienc.ipynb)
